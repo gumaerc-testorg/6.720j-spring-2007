@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-720j-integrated-microelectronic-devices-spring-2007/03df81b255a1b7fcf5e90bd144707304_hw3.pdf
+file: /media/courses/6-720j-integrated-microelectronic-devices-spring-2007/03df81b255a1b7fcf5e90bd144707304_hw3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw3.pdf
 uid: 03df81b2-55a1-b7fc-f5e9-0bd144707304

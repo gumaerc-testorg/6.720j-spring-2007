@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on the current-voltage characteristics of ideal bipolar
   junction transistor.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-720j-integrated-microelectronic-devices-spring-2007/20e2749b9fd075a774e9a7fe3f9cadda_lecture35.pdf
+file: /media/courses/6-720j-integrated-microelectronic-devices-spring-2007/20e2749b9fd075a774e9a7fe3f9cadda_lecture35.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture35.pdf
 uid: 20e2749b-9fd0-75a7-74e9-a7fe3f9cadda
