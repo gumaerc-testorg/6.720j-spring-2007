@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 59098584-894c-b1b1-d78c-f504f3c968d6
 resourcetype: Document
 title: hw8.pdf
 uid: 16df3d65-7976-d19e-a538-4733f4a63d31

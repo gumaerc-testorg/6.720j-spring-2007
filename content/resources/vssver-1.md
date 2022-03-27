@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7f48212f-37d0-1c92-f013-86a489e8b22f
 resourcetype: Other
 title: vssver.scc
 uid: c97c9895-1921-1105-7b22-187bf079288b

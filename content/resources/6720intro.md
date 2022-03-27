@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 24adbc49-3669-754b-9b55-79f56e9b84ce
 resourcetype: Document
 title: 6720intro.pdf
 uid: 3ca123b2-bcd4-b8b7-12ad-d288b67eae6c

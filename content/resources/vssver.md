@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 24adbc49-3669-754b-9b55-79f56e9b84ce
 resourcetype: Other
 title: vssver.scc
 uid: d8c9e9e4-f450-97ea-bd1b-cb2283fd47c4

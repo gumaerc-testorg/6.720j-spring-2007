@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7163acf0-b8a8-2987-ea79-71d6e56b26e3
 resourcetype: Document
 title: matlabguide.pdf
 uid: 74dc6e70-5299-8101-c668-e252c524e5ed
