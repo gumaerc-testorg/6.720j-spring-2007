@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Shockley equations, carrier flow, and minority-carrier
   type situations.
-file: /media/courses/6-720j-integrated-microelectronic-devices-spring-2007/c9530c3c35880f3b9f9aeafbe780c3d9_lecture10.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/c9530c3c35880f3b9f9aeafbe780c3d9_lecture10.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture10.pdf
 uid: c9530c3c-3588-0f3b-9f9a-eafbe780c3d9
 ---
+Lecture notes on Shockley equations, carrier flow, and minority-carrier type situations.
+

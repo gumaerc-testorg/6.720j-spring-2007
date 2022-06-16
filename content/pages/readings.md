@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on required and recommended textbooks,
+  and the list of readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

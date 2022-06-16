@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to information on the MIT Microelectronics
+  WebLab, a microelectronics device characterization laboratory that can be accessed
+  through the internet.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -15,4 +18,4 @@ Visitors can access an open version of this lab [here](http://icampus.mit.edu/pr
 
 Documentation about the MIT Microelectronics WebLab can be found [here](http://weblab2.mit.edu/docs/weblab/v6.1/manual/).
 
-If you or your institution wishes to use this lab in regular basis in your courses, you are encouraged to contact Prof. Jesús del Alamo ![Professor's email address.](/courses/electrical-engineering-and-computer-science/6-720j-integrated-microelectronic-devices-spring-2007/tools/email.jpg).
+If you or your institution wishes to use this lab in regular basis in your courses, you are encouraged to contact Prof. Jesús del Alamo {{< resource "aedf85b4-0ce5-be8a-5577-730ca6127480" >}}.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-720j-integrated-microelectronic-devices-spring-2007/c97c9895192111057b22187bf079288b_vssver.scc
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/c97c9895192111057b22187bf079288b_vssver.scc
 file_type: application/octet-stream
 learning_resource_types:
 - Exams

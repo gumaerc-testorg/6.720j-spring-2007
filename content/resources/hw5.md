@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/courses/6-720j-integrated-microelectronic-devices-spring-2007/7029b8ffa310bc8e1cdd691eed57ae1e_hw5.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/7029b8ffa310bc8e1cdd691eed57ae1e_hw5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hw5.pdf
 uid: 7029b8ff-a310-bc8e-1cdd-691eed57ae1e
 ---
+Homework assignment.
+

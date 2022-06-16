@@ -2,7 +2,7 @@
 content_type: resource
 description: Device characterization project assignment on NPN bipolar junction transistor
   (BJT) characterization.
-file: /media/courses/6-720j-integrated-microelectronic-devices-spring-2007/3365c7d8654bd242c0526b84462850ec_project3.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/3365c7d8654bd242c0526b84462850ec_project3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Document
 title: project3.pdf
 uid: 3365c7d8-654b-d242-c052-6b84462850ec
 ---
+Device characterization project assignment on NPN bipolar junction transistor (BJT) characterization.
+

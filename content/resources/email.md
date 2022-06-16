@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of Jes?s del Alamo's email address.
-file: /media/courses/6-720j-integrated-microelectronic-devices-spring-2007/aedf85b40ce5be8a5577730ca6127480_email.jpg
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/aedf85b40ce5be8a5577730ca6127480_email.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -17,3 +17,5 @@ resourcetype: Image
 title: email.jpg
 uid: aedf85b4-0ce5-be8a-5577-730ca6127480
 ---
+Image of Jes?s del Alamo's email address.
+
