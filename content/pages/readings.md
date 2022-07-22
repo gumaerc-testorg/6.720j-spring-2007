@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required and recommended textbooks,
+  and the list of readings by lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 83032934-7bd8-964b-4e81-96f2897e7f5d
 ---
