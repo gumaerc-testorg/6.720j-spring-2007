@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/98a09bf3cce
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture19.pdf
 uid: 98a09bf3-cce3-42df-02e1-68bbcebbddb5
 ---
 Lecture notes on Schottky diodes and Ohmic contact.
-

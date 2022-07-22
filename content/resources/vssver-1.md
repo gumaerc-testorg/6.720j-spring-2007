@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/c97c9895192
 file_type: application/octet-stream
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

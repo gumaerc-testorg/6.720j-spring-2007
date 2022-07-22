@@ -7,6 +7,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/6ea95228c96
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture4.pdf
 uid: 6ea95228-c96b-5cb8-49ec-a384b52f4ccf
 ---
 Lecture notes on carrier generation and recombination, G&R mechanisms, principle of detailed balance, G&R rates in thermal equilibrium, and G&R rates outside thermal equilibrium.
-

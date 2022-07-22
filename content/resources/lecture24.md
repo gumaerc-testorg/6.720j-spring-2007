@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/f1045f97ead
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture24.pdf
 uid: f1045f97-ead6-0566-6390-79883da94b59
 ---
 Lecture notes on dynamics of the MOS structure, three-terminal MOS structure, and introduction to MOSFET.
-

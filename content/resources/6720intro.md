@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/3ca123b2bcd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 6720intro.pdf
 uid: 3ca123b2-bcd4-b8b7-12ad-d288b67eae6c
 ---
 Lecture slides with an introduction to integrated microelectronic devices and the objectives of 6.720J/3.43J Integrated Microelectronic Devices.
-

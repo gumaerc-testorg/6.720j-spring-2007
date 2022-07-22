@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/1f1fc5af273
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture8.pdf
 uid: 1f1fc5af-273b-0f02-a040-22ef0899c178
 ---
 Lecture notes on quasi-fermi levels, continuity equations, and surface continuity equations.
-

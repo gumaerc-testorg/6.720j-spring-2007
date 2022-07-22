@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/a3e67107e3c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture1.pdf
 uid: a3e67107-e3c8-075e-e917-e4a291c5c4dc
 ---
 Lecture notes on the electronic structure of semiconductors, electron statistics, and thermal equilibrium.
-

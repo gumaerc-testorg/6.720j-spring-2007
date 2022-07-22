@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/8ecb3aeb337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture23.pdf
 uid: 8ecb3aeb-337e-aca7-935a-3b55014f9c4f
 ---
 Lecture notes on ideal MOS structure under bias and dynamics of the MOS structure.
-

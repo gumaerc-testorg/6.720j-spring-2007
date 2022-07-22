@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/5dbbf29de54
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture28.pdf
 uid: 5dbbf29d-e54e-e689-9b72-57505130d01a
 ---
 Lecture notes on second-order and non-ideal effects.
-

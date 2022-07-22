@@ -7,6 +7,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/58cdd6312da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture5.pdf
 uid: 58cdd631-2da2-43d9-062e-56ceee80f955
 ---
 Lecture notes on carrier generation and recombination, G&R rates outside thermal equilibrium, dynamics of excess carriers in uniform situations, and surface generation and recombination.
-

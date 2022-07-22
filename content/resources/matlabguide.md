@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/74dc6e70529
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: matlabguide.pdf
 uid: 74dc6e70-5299-8101-c668-e252c524e5ed
 ---
 Guidelines for using MATLAB? software for device characterization and the circuit design project.
-

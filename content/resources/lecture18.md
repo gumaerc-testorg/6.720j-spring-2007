@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/089385b38db
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture18.pdf
 uid: 089385b3-8dbf-1f3a-317b-a24064aed26e
 ---
 Lecture notes on metal-semiconductor junction outside equilibrium.
-

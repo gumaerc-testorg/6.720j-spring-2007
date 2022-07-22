@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/03df81b255a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3.pdf
 uid: 03df81b2-55a1-b7fc-f5e9-0bd144707304
 ---
 Homework assignment.
-

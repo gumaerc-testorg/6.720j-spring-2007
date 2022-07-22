@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/cfe745e7c00
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture7.pdf
 uid: cfe745e7-c001-f337-4cac-e32f78fe2abe
 ---
 Lecture notes on a non-uniformly doped semiconductor in thermal equilibrium.
-

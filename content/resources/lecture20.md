@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/1ccf5141ee7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture20.pdf
 uid: 1ccf5141-ee7a-8305-aacf-2ce6e06ddc7c
 ---
 Lecture notes on the Si surface, the metal-oxide-semiconductor structure, and ideal MOS structure at zero bias.
-

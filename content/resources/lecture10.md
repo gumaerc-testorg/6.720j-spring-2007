@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/c9530c3c358
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture10.pdf
 uid: c9530c3c-3588-0f3b-9f9a-eafbe780c3d9
 ---
 Lecture notes on Shockley equations, carrier flow, and minority-carrier type situations.
-

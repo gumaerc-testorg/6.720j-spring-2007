@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/e241bb54d37
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture13.pdf
 uid: e241bb54-d370-c62f-f3d8-089062ed74f5
 ---
 Lecture notes on ideal p-n junction in equilibrium, and ideal p-n junction out of equilibrium.
-

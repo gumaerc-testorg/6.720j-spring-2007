@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: email.jpg
 uid: aedf85b4-0ce5-be8a-5577-730ca6127480
 ---
 Image of Jes?s del Alamo's email address.
-

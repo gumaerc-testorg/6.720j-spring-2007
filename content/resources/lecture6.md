@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/efaa0323526
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture6.pdf
 uid: efaa0323-526d-20e9-58c4-04867053b5c1
 ---
 Lecture notes on thermal motion and scattering, carrier drift, and diffusion.
-

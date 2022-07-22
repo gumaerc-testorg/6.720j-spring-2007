@@ -5,6 +5,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/d5ac1e6f58d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture21.pdf
 uid: d5ac1e6f-58d1-9bdd-7e4e-3944be5fa278
 ---
 Lecture notes on the Si surface and the metal-oxide-semiconductor structure.
-

@@ -6,6 +6,7 @@ file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/477625fc608
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture9.pdf
 uid: 477625fc-6080-d062-ea9b-ef7e100acd0b
 ---
 Lecture notes on Shockley?s equations, simplifications of Shockley equations to 1D quasi-neutral situations, and majority-carrier type situations.
-
