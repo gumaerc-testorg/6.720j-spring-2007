@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on quasi-fermi levels, continuity equations, and surface
   continuity equations.
 file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/1f1fc5af273b0f02a04022ef0899c178_lecture8.pdf
+file_size: 156490
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

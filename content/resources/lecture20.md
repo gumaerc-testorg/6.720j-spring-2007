@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the Si surface, the metal-oxide-semiconductor structure,
   and ideal MOS structure at zero bias.
 file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/1ccf5141ee7a8305aacf2ce6e06ddc7c_lecture20.pdf
+file_size: 172209
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

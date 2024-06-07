@@ -2,6 +2,7 @@
 content_type: resource
 description: Device characterization project assignment on 0.18?m N-MOSFET characterization.
 file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/02467b1520ca6ab652ae7e7a4a2d156a_project2.pdf
+file_size: 115248
 file_type: application/pdf
 learning_resource_types:
 - Projects
