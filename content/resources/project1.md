@@ -3,6 +3,7 @@ content_type: resource
 description: Device characterization project assignment on metal-oxide-semiconductor
   field-effect (MOSFET) source-body PN diode characterization.
 file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/6f3eb3ed4bc379d12d67ab474d5897bb_project1.pdf
+file_size: 77079
 file_type: application/pdf
 learning_resource_types:
 - Projects

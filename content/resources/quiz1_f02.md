@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz on Integrated Micro Electronic Devices from October 10, 2002.
 file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/bc8a913ba4c3db29db40fffc9389ac8b_quiz1_f02.pdf
+file_size: 103729
 file_type: application/pdf
 learning_resource_types:
 - Exams
