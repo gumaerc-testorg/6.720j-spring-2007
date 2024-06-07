@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the electronic structure of semiconductors, electron
   statistics, and thermal equilibrium.
 file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/a3e67107e3c8075ee917e4a291c5c4dc_lecture1.pdf
+file_size: 548159
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

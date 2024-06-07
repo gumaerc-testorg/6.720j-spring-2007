@@ -4,6 +4,7 @@ description: Design problem assignment on gate material options for deep-submicr
   complementary metal-oxide-semiconductor (CMOS) technology for high-performance microprocessor
   applications.
 file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/a4180084bf2c3f459994bf147f21aeef_designproject.pdf
+file_size: 213651
 file_type: application/pdf
 learning_resource_types:
 - Projects
