@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Shockley?s equations, simplifications of Shockley equations
   to 1D quasi-neutral situations, and majority-carrier type situations.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/477625fc6080d062ea9bef7e100acd0b_lecture9.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/477625fc6080d062ea9bef7e100acd0b_lecture9.pdf
 file_size: 193027
 file_type: application/pdf
 learning_resource_types:

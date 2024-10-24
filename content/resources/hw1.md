@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/c5463cf848bd4460b0a723d3363678b8_hw1.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/c5463cf848bd4460b0a723d3363678b8_hw1.pdf
 file_size: 26565
 file_type: application/pdf
 learning_resource_types:
