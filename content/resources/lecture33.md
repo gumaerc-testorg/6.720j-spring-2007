@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on MOSFET scaling and the evolution of MOSFET design.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/b369dba04c8466ff807f32e05903432e_lecture33.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/b369dba04c8466ff807f32e05903432e_lecture33.pdf
 file_size: 370443
 file_type: application/pdf
 learning_resource_types:

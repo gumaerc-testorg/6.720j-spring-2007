@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on metal-semiconductor junction outside equilibrium.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/089385b38dbf1f3a317ba24064aed26e_lecture18.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/089385b38dbf1f3a317ba24064aed26e_lecture18.pdf
 file_size: 180192
 file_type: application/pdf
 learning_resource_types:

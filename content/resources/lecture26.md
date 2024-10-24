@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on current-voltage and charge-voltage characteristics of
   ideal MOSFET.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/59850a07f95e9f50d32185eb46503460_lecture26.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/59850a07f95e9f50d32185eb46503460_lecture26.pdf
 file_size: 1120547
 file_type: application/pdf
 learning_resource_types:

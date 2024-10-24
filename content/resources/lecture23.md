@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on ideal MOS structure under bias and dynamics of the MOS
   structure.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/8ecb3aeb337eaca7935a3b55014f9c4f_lecture23.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/8ecb3aeb337eaca7935a3b55014f9c4f_lecture23.pdf
 file_size: 252272
 file_type: application/pdf
 learning_resource_types:
