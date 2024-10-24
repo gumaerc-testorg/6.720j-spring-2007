@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on non-ideal effects in BJT in FAR.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/c6a2e8f45015ea6cb9a0610a524ab999_lecture38.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/c6a2e8f45015ea6cb9a0610a524ab999_lecture38.pdf
 file_size: 292594
 file_type: application/pdf
 learning_resource_types:

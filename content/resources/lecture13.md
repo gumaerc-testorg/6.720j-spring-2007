@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on ideal p-n junction in equilibrium, and ideal p-n junction
   out of equilibrium.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/e241bb54d370c62ff3d8089062ed74f5_lecture13.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/e241bb54d370c62ff3d8089062ed74f5_lecture13.pdf
 file_size: 180071
 file_type: application/pdf
 learning_resource_types:

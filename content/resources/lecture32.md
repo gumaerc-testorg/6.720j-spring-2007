@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on MOSFET scaling.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/036333b326d0db0a3589ef6ee6eb0dc4_lecture32.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/036333b326d0db0a3589ef6ee6eb0dc4_lecture32.pdf
 file_size: 704787
 file_type: application/pdf
 learning_resource_types:
