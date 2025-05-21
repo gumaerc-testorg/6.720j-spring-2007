@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on bipolar junction transistor and common-emitter short-circuit
   current-gain cut-off frequency.
-file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/69d0bc40c05656b58c64256da336ba03_lecture37.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/69d0bc40c05656b58c64256da336ba03_lecture37.pdf
 file_size: 214611
 file_type: application/pdf
 learning_resource_types:

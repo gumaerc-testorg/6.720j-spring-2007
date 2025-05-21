@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on charge-voltage characteristics of ideal MOSFET, small-signal
   behavior of ideal MOSFET, and short-circuit current-gain cut-off frequency.
-file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/e337b657572a8fa0743eb1537f06849f_lecture27.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/e337b657572a8fa0743eb1537f06849f_lecture27.pdf
 file_size: 194860
 file_type: application/pdf
 learning_resource_types:
