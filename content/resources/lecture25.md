@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on qualitative operation of the ideal MOSFET, inversion
   layer transport, and I-V characteristics of ideal MOSFET.
-file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/8ad0e553fbdaed10f6102b04451e547e_lecture25.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/8ad0e553fbdaed10f6102b04451e547e_lecture25.pdf
 file_size: 154360
 file_type: application/pdf
 learning_resource_types:

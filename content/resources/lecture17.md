@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on ideal metal-semiconductor junction in TE and ideal metal-semiconductor
   junction outside equilibrium.
-file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/890975f8ac0c23564d100ddea3072937_lecture17.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/890975f8ac0c23564d100ddea3072937_lecture17.pdf
 file_size: 164222
 file_type: application/pdf
 learning_resource_types:

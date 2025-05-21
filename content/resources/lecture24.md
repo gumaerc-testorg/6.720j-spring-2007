@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on dynamics of the MOS structure, three-terminal MOS structure,
   and introduction to MOSFET.
-file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/f1045f97ead60566639079883da94b59_lecture24.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/f1045f97ead60566639079883da94b59_lecture24.pdf
 file_size: 307770
 file_type: application/pdf
 learning_resource_types:
