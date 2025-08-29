@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/d8c9e9e4f45097eabd1bcb2283fd47c4_vssver.scc
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/d8c9e9e4f45097eabd1bcb2283fd47c4_vssver.scc
 file_size: 656
 file_type: application/octet-stream
 learning_resource_types:

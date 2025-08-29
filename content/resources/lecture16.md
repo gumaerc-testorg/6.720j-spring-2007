@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on non-ideal and second-order effects.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/885c72db52c5a38b4616f25e754aa75f_lecture16.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/885c72db52c5a38b4616f25e754aa75f_lecture16.pdf
 file_size: 185599
 file_type: application/pdf
 learning_resource_types:
