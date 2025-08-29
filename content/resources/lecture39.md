@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the evolution of BJT design and bipolar issues in CMOS.
-file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/5306e2e859acd3a179943ed32c10aee0_lecture39.pdf
+file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/5306e2e859acd3a179943ed32c10aee0_lecture39.pdf
 file_size: 700654
 file_type: application/pdf
 learning_resource_types:
