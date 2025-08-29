@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Schottky diodes and Ohmic contact.
-file: /courses/6-720j-integrated-microelectronic-devices-spring-2007/98a09bf3cce342df02e168bbcebbddb5_lecture19.pdf
+file: /ol-ocw-studio-app/courses/6-720j-integrated-microelectronic-devices-spring-2007/98a09bf3cce342df02e168bbcebbddb5_lecture19.pdf
 file_size: 188122
 file_type: application/pdf
 learning_resource_types:
